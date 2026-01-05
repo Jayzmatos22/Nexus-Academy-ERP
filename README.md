@@ -56,13 +56,8 @@ cd Nexus-Academy-ERP
 
 # Instalar bibliotecas necessárias
 pip install pandas numpy
+---bash
 
-### 3. Running the System
-To start the ERP, simply run the main.py file from the root directory:
-
-Bash
-
-python main.py
 
 # 📂 Project Structure
 
