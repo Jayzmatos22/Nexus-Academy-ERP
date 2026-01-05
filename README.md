@@ -36,40 +36,42 @@ O projeto destaca-se pela sua arquitetura modular e volume de lógica implementa
 - **Linguagem:** Python 3.x
 - **Bibliotecas:** Pandas, Matplotlib, Numpy, Pyfiglet, Colorama, Rich.
 
-## 📁 Estrutura do Repositório
+# 📂 Project Structure
+
+```text
 Nexus-Academy-ERP/
 ┃
-┣━━ 📂 allFunctions/                
+┣━━ 📂 allFunctions/
 ┃   ┣━━ 📜 data_user_functions.py
 ┃   ┣━━ 📜 user_academy_functions.py
 ┃   ┣━━ 📜 user_data_var.py
 ┃   ┗━━ 📜 insertionTypes.py
 ┃
-┣━━ 📂 anscii_sistem/              
+┣━━ 📂 anscii_sistem/
 ┃   ┗━━ 📜 collors.py
 ┃
-┣━━ 📂 bankUser/                   
+┣━━ 📂 bankUser/
 ┃   ┣━━ 📜 functionBank.py
 ┃   ┗━━ 📜 variablesBank.py
 ┃
-┣━━ 📂 emojizeSistem/              
+┣━━ 📂 emojizeSistem/
 ┃   ┗━━ 📜 dict_emojize.py
 ┃
-┣━━ 📂 extensiveList_generies/     
+┣━━ 📂 extensiveList_generies/
 ┃   ┗━━ 📜 listMaxGender.py
 ┃
-┣━━ 📂 subjects_and_tasksAcademy/   
+┣━━ 📂 subjects_and_tasksAcademy/
 ┃   ┗━━ 📜 subjectTaskFunctions.py
 ┃
-┣━━ 📂 utils/                      
+┣━━ 📂 utils/
 ┃   ┗━━ 📜 utilsUx.py
 ┃
-┣━━ 📂 utilsCrud/                  
+┣━━ 📂 utilsCrud/
 ┃   ┣━━ 📜 crudCreate.py
 ┃   ┣━━ 📜 crudUniversity.py
 ┃   ┣━━ 📜 crudDataUser.py
 ┃   ┗━━ 📜 crudBankUser.py
 ┃
-┣━━ 📜 main.py                     
-┗━━ 📜 README.md                       
+┣━━ 📜 main.py
+┗━━ 📜 README.md                   
        
