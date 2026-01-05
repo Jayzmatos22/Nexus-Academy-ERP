@@ -36,6 +36,34 @@ O projeto destaca-se pela sua arquitetura modular e volume de lógica implementa
 - **Linguagem:** Python 3.x
 - **Bibliotecas:** Pandas, Matplotlib, Numpy, Pyfiglet, Colorama, Rich.
 
+
+## 🚀 Como Usar
+
+### 1. Pré-requisitos
+Para rodar esse sistema de +4.500 linhas, você vai precisar do **Python 3.x** instalado e das seguintes bibliotecas:
+* **Pandas**: Para o processamento de dados financeiros e estatísticas.
+* **Numpy**: Para operações matemáticas do sistema.
+
+### 2. Instalação
+Clone o repositório e instale as dependências necessárias:
+
+```bash
+# Clonar o projeto
+git clone [https://github.com/Jayzmatos22/Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP)
+
+# Entrar na pasta
+cd Nexus-Academy-ERP
+
+# Instalar bibliotecas necessárias
+pip install pandas numpy
+
+### 3. Running the System
+To start the ERP, simply run the main.py file from the root directory:
+
+Bash
+
+python main.py
+
 # 📂 Project Structure
 
 ```text
