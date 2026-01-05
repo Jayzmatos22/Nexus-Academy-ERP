@@ -39,37 +39,37 @@ O projeto destaca-se pela sua arquitetura modular e volume de lógica implementa
 ## 📁 Estrutura do Repositório
 Nexus-Academy-ERP/
 ┃
-┣━━ 📂 allFunctions/                # Core logic and secure data validation
+┣━━ 📂 allFunctions/                
 ┃   ┣━━ 📜 data_user_functions.py
 ┃   ┣━━ 📜 user_academy_functions.py
 ┃   ┣━━ 📜 user_data_var.py
 ┃   ┗━━ 📜 insertionTypes.py
 ┃
-┣━━ 📂 anscii_sistem/               # Terminal UI color definitions
+┣━━ 📂 anscii_sistem/              
 ┃   ┗━━ 📜 collors.py
 ┃
-┣━━ 📂 bankUser/                    # Financial module and banking logic
+┣━━ 📂 bankUser/                   
 ┃   ┣━━ 📜 functionBank.py
 ┃   ┗━━ 📜 variablesBank.py
 ┃
-┣━━ 📂 emojizeSistem/               # Custom emoji and icon mapping
+┣━━ 📂 emojizeSistem/              
 ┃   ┗━━ 📜 dict_emojize.py
 ┃
-┣━━ 📂 extensiveList_generies/      # Gender identity and support datasets
+┣━━ 📂 extensiveList_generies/     
 ┃   ┗━━ 📜 listMaxGender.py
 ┃
-┣━━ 📂 subjects_and_tasksAcademy/    # Academic management core
+┣━━ 📂 subjects_and_tasksAcademy/   
 ┃   ┗━━ 📜 subjectTaskFunctions.py
 ┃
-┣━━ 📂 utils/                       # General UI/UX utility functions
+┣━━ 📂 utils/                      
 ┃   ┗━━ 📜 utilsUx.py
 ┃
-┣━━ 📂 utilsCrud/                   # CRUD orchestration and menu flow
+┣━━ 📂 utilsCrud/                  
 ┃   ┣━━ 📜 crudCreate.py
 ┃   ┣━━ 📜 crudUniversity.py
 ┃   ┣━━ 📜 crudDataUser.py
 ┃   ┗━━ 📜 crudBankUser.py
 ┃
-┣━━ 📜 main.py                      # System entry point (Execution)
-┗━━ 📜 README.md                    # Project documentation       
+┣━━ 📜 main.py                     
+┗━━ 📜 README.md                       
        
