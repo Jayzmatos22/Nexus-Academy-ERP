@@ -1,3 +1,7 @@
+
+# MÓDULO PARA FUNÇÕES BANCÁRIAS DO USUÁRIO.
+
+
 from allFunctions.insertionTypes import insertion_void, space, insertion_float, insertion_int
 from anscii_sistem.collors import text_collor, text_format, background_collors
 from emojizeSistem.dict_emojize import utility_symbols1, utility_symbols2, techEmojis, workEmojis, financeEmojis, emojisAcademy2
@@ -309,8 +313,6 @@ def bank_purchase_study_material():
             }
         
         space()
-        for i, k in purchase_history.items():
-            print(i, k)
 
 
         while True: # Continuar ou parar.

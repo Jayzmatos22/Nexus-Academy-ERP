@@ -1,3 +1,5 @@
+# MÓDULO DE VARIÁVEIS BANCÁRIAS DO USUÁRIO.
+
 
 # Bancos disponíveis para seleção pelo usuário.
 banks = {
