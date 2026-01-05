@@ -1,4 +1,4 @@
-# 🎓 Sistema Integrado de Gestão Académica e Financeira
+# 🎓 Sistema Integrado de Gestão Acadêmica e Financeira
 
 Este é um ecossistema completo desenvolvido em Python para estudantes universitários, integrando gestão de notas, agenda de tarefas e um setor bancário simulado.
 
@@ -37,39 +37,39 @@ O projeto destaca-se pela sua arquitetura modular e volume de lógica implementa
 - **Bibliotecas:** Pandas, Matplotlib, Numpy, Pyfiglet, Colorama, Rich.
 
 ## 📁 Estrutura do Repositório
-SmartLibrary/
-│
-├── 📂 allFunctions/                
-│   ├── 📜 data_user_functions.py     
-│   ├── 📜 user_academy_functions.py  
-│   ├── 📜 user_data_var.py          
-│   └── 📜 insertionTypes.py        
-│
-├── 📂 subjects_and_tasksAcademy/    
-│   └── 📜 subjectTaskFunctions.py  
-│
-├── 📂 bankUser/                    
-│   ├── 📜 functionBank.py         
-│   └── 📜 variablesBank.py         
-│
-├── 📂 utilsCrud/                  
-│   ├── 📜 crudCreate.py             
-│   ├── 📜 crudUniversity.py        
-│   ├── 📜 crudDataUser.py           
-│   └── 📜 crudBankUser.py           
-│
-├── 📂 utils/                       
-│   └── 📜 utilsUx.py                
-│
-├── 📂 anscii_sistem/              
-│   └── 📜 collors.py                
-│
-├── 📂 emojizeSistem/              
-│   └── 📜 dict_emojize.py           
-│
-├── 📂 extensiveList_generies/      
-│   └── 📜 listMaxGender.py          
-│
-├── 📜 main.py                      
-└── 📜 README.md          
+Nexus-Academy-ERP/
+┃
+┣━━ 📂 allFunctions/                # Core logic and secure data validation
+┃   ┣━━ 📜 data_user_functions.py
+┃   ┣━━ 📜 user_academy_functions.py
+┃   ┣━━ 📜 user_data_var.py
+┃   ┗━━ 📜 insertionTypes.py
+┃
+┣━━ 📂 anscii_sistem/               # Terminal UI color definitions
+┃   ┗━━ 📜 collors.py
+┃
+┣━━ 📂 bankUser/                    # Financial module and banking logic
+┃   ┣━━ 📜 functionBank.py
+┃   ┗━━ 📜 variablesBank.py
+┃
+┣━━ 📂 emojizeSistem/               # Custom emoji and icon mapping
+┃   ┗━━ 📜 dict_emojize.py
+┃
+┣━━ 📂 extensiveList_generies/      # Gender identity and support datasets
+┃   ┗━━ 📜 listMaxGender.py
+┃
+┣━━ 📂 subjects_and_tasksAcademy/    # Academic management core
+┃   ┗━━ 📜 subjectTaskFunctions.py
+┃
+┣━━ 📂 utils/                       # General UI/UX utility functions
+┃   ┗━━ 📜 utilsUx.py
+┃
+┣━━ 📂 utilsCrud/                   # CRUD orchestration and menu flow
+┃   ┣━━ 📜 crudCreate.py
+┃   ┣━━ 📜 crudUniversity.py
+┃   ┣━━ 📜 crudDataUser.py
+┃   ┗━━ 📜 crudBankUser.py
+┃
+┣━━ 📜 main.py                      # System entry point (Execution)
+┗━━ 📜 README.md                    # Project documentation       
        
